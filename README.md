@@ -1,6 +1,6 @@
-This is a .py file with CS estimates based on the WHO CS estimation tool. 
+This is a .py file with CS estimates based on the WHO CS estimation tool/methodology. 
 
-Congenital Syphilis (CS) modelling
+Congenital Syphilis (CS) modelling equations:
 Number of syphilis infected pregnancies = Number of pregnancies X maternal prevalence 
 Percentage of pregnancies treated = ANC coverage X screening coverage X treatment coverage   
 (assumption: women who don’t attend ANC or who attend ANC but are not screened are not treated) 
